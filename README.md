@@ -10,3 +10,5 @@ This doesn't contain private information.
 ## Goals I want to achieve at the company
 
 ## The company I want to join in
+
+## Contribution I can do for The company
