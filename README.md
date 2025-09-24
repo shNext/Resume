@@ -28,3 +28,5 @@ For Technological Advancement, Value Creation, Social Contribution
 </p>
 
 ## Contribution I can do for The company
+
+Perspective / Position / Business 
