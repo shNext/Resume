@@ -13,6 +13,8 @@ Semiconductor, Vehicle
 
 Embedded/System SW Engineer
 
+### Reason Why I choose this position
+
 ## Goals I want to achieve at the company
 
 For Technological Advancement, Value Creation, Social Contribution
@@ -26,6 +28,8 @@ For Technological Advancement, Value Creation, Social Contribution
 <img src="https://img.shields.io/badge/LG Electronics-A50034?style=for-the-badge&logo=LG&logoColor=white" style="border-radius:5px"/>
 <img src="https://img.shields.io/badge/DEEPX-007CFF?style=for-the-badge&logoColor=white" style="border-radius:5px"/>
 </p>
+
+### Reason Why I apply to this company
 
 ## Contribution I can do for The company
 
