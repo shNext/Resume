@@ -20,6 +20,8 @@ Frontline
 
 Embedded/System SW Engineer
 
+### Expected Roles and Tasks as Embedded/System SW Enginner
+
 ### Reason Why I choose this position
 
 ## Goals I want to achieve at the company
