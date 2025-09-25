@@ -44,6 +44,7 @@ For Technological Advancement, Value Creation, Social Contribution
 ### Reason Why I apply to this company
 
 ### Career goal I want to achieve at the company
+What I want to make/create/advance in the company, not saying "I want to be expert."
 
 ## Contribution I can do for The company
 
