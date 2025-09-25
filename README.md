@@ -34,6 +34,9 @@ For Technological Advancement, Value Creation, Social Contribution
 <img src="https://img.shields.io/badge/SK Telecom-DD0700?style=for-the-badge&logoColor=white" style="border-radius:5px"/>
 <img src="https://img.shields.io/badge/LG Electronics-A50034?style=for-the-badge&logo=LG&logoColor=white" style="border-radius:5px"/>
 <img src="https://img.shields.io/badge/DEEPX-007CFF?style=for-the-badge&logoColor=white" style="border-radius:5px"/>
+<img src="https://img.shields.io/badge/Kia-05141F?style=for-the-badge&logo=Kia&logoColor=white" style="border-radius:5px"/>
+<img src="https://img.shields.io/badge/FuriosaAI-FF0000?style=for-the-badge&logoColor=white" style="border-radius:5px"/>
+
 </p>
 
 ### Reason Why I apply to this company
