@@ -5,11 +5,16 @@ This doesn't contain private information.
 
 Industry, Position, Goal
 
+## Criteria for me when apply to the company
+
+
 ## Desired Industry
 
 Semiconductor, Vehicle
 
 ### Reason Why I'm interested in this industry
+
+Frontline
 
 ## Position I want to take part in
 
@@ -32,6 +37,8 @@ For Technological Advancement, Value Creation, Social Contribution
 </p>
 
 ### Reason Why I apply to this company
+
+### Career goal I want to achieve at the company
 
 ## Contribution I can do for The company
 
