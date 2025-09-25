@@ -9,6 +9,8 @@ Industry, Position, Goal
 
 Semiconductor, Vehicle
 
+### Reason Why I'm interested in this industry
+
 ## Position I want to take part in
 
 Embedded/System SW Engineer
