@@ -55,4 +55,5 @@ Specify What I want to realize for the dream, the company, and the world.
 
 ## Contribution I can do for The company
 
-Perspective / Position / Business 
+Perspective / Position / Business <br/>
+Carefully think and do not fully seperate them.
