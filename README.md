@@ -9,6 +9,10 @@ Industry, Position, Goal
 
 Leader(CEO/Part/Team Leader), Pride in heart, Glory as Contributor
 
+## Goals I want to achieve at the company
+
+For Technological Advancement, Value Creation, Social Contribution
+
 ## Desired Industry
 
 Semiconductor, Vehicle
@@ -29,10 +33,6 @@ Embedded/System SW Engineer
 
 difficult to explain just one or two words but in my case the most closest expression is "difficult but attractive"
 
-## Goals I want to achieve at the company
-
-For Technological Advancement, Value Creation, Social Contribution
-
 ## The company I want to join in
 
 <p>
@@ -50,7 +50,8 @@ For Technological Advancement, Value Creation, Social Contribution
 Technology I dedicate to, Dream I believe, Pioneer to the Future
 
 ### Career goal I want to achieve at the company
-What I want to make/create/advance in the company, not saying "I want to be expert."
+What I want to make/create/advance in the company, not saying "I want to be expert." <br/>
+Specify What I want to realize for the dream, the company, and the world.
 
 ## Contribution I can do for The company
 
