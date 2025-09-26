@@ -23,6 +23,8 @@ Embedded/System SW Engineer
 
 ### Expected Roles and Tasks as Embedded/System SW Enginner
 
+#### Role / Tasks / Required Skill
+
 ### Reason Why I choose this position
 
 difficult to explain just one or two words but in my case the most closest expression is "difficult but attractive"
