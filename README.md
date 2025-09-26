@@ -7,6 +7,7 @@ Industry, Position, Goal
 
 ## Criteria for me when apply to the company
 
+Leader(CEO/Part/Team Leader), Pride in heart, Glory as Contributor
 
 ## Desired Industry
 
