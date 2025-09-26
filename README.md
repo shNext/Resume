@@ -43,11 +43,12 @@ difficult to explain just one or two words but in my case the most closest expre
 <img src="https://img.shields.io/badge/DEEPX-007CFF?style=for-the-badge&logoColor=white" style="border-radius:5px"/>
 <img src="https://img.shields.io/badge/Kia-05141F?style=for-the-badge&logo=Kia&logoColor=white" style="border-radius:5px"/>
 <img src="https://img.shields.io/badge/FuriosaAI-FF0000?style=for-the-badge&logoColor=white" style="border-radius:5px"/>
-
+<img src="https://img.shields.io/badge/Hyundai Motor-002C5E?style=for-the-badge&logo=Hyundai&logoColor=white" style="border-radius:5px"/>
 </p>
 
 ### Reason Why I apply to this company
-Technology I dedicate to, Dream I believe, Pioneer to the Future
+Technology I dedicate to, Dream I believe, Pioneer to the Future. <br/>
+Explain and describe whether the value of each keyword really exists in the company.
 
 ### Career goal I want to achieve at the company
 What I want to make/create/advance in the company, not saying "I want to be expert." <br/>
