@@ -25,6 +25,8 @@ Embedded/System SW Engineer
 
 ### Reason Why I choose this position
 
+difficult to explain just one or two words but in my case the most closest expression is "difficult but attractive"
+
 ## Goals I want to achieve at the company
 
 For Technological Advancement, Value Creation, Social Contribution
