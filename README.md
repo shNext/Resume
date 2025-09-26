@@ -49,7 +49,7 @@ difficult to explain just one or two words but in my case the most closest expre
 
 ### Reason Why I apply to this company
 Technology I dedicate to, Dream I believe, Pioneer to the Future. <br/>
-Explain and describe whether the value of each keyword really exists in the company.
+Explain and describe whether the value/meaning of each keyword really exists in the company.
 
 ### Career goal I want to achieve at the company
 What I want to make/create/advance in the company, not saying "I want to be expert." <br/>
