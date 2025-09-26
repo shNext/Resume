@@ -1,5 +1,6 @@
 # Resume
-This doesn't contain private information.
+This doesn't contain private information. <br/>
+draft deadline : 2025-10-03.
 
 ## Values about work
 
