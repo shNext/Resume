@@ -47,7 +47,7 @@ For Technological Advancement, Value Creation, Social Contribution
 </p>
 
 ### Reason Why I apply to this company
-Technology, Dream, Pioneer to the Future
+Technology I dedicate to, Dream I believe, Pioneer to the Future
 
 ### Career goal I want to achieve at the company
 What I want to make/create/advance in the company, not saying "I want to be expert."
