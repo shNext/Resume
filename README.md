@@ -56,6 +56,15 @@ What I want to make/create/advance in the company, not saying "I want to be expe
 Specify What I want to realize for the dream, the company, and the world.
 
 ## Contribution I can do for The company
-
 Perspective / Position / Business <br/>
 Carefully think and do not fully seperate them.
+
+## Reference
+I think it is better to seperate some topics written in here to each repo so that details could be represented, so after write draft of this few of day will be to explain/write for that. <br/>
+
+<p>
+- The criteria/meaning of Leader, Pride, Glory. <br/>
+- The reason/meaning of Technology, Dream, Pioneer. <br/>
+</p>
+
+Thanks. 😄
