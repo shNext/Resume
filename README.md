@@ -59,7 +59,7 @@ Specify What I want to realize for the dream, the company, and the world.
 Perspective / Position / Business <br/>
 Carefully think and do not fully seperate them.
 
-## Reference
+## Related Repository in My Hub
 I think it is better to seperate some topics written in here to each repo so that details could be represented, so after write draft of this few of day will be to explain/write for that. <br/>
 
 <p>
