@@ -1,6 +1,7 @@
 # Resume
 This doesn't contain private information. <br/>
-draft deadline : 2025-10-03.
+draft deadline : 2025-10-03. <br/><br/>
+The chapter related with Role and Tasks for the position I want will be updated until get the job every one or two weekend.
 
 ## Values about work
 
@@ -26,7 +27,7 @@ Frontline
 
 Embedded/System SW Engineer
 
-### Embedded/System SW Engineer Role Specification 
+### Embedded/System SW Engineer Role Specification
 
 #### Role / Tasks / Required Skill
 
