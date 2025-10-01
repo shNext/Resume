@@ -27,7 +27,13 @@ Frontline
 
 Embedded/System SW Engineer
 
-### Embedded/System SW Engineer Role Specification
+### Embedded/System SW Engineer Role Specification [This will be keep updated]
+
+from now, I want to write about the role of this position I want and how do I understand this role as job seeker for this position. <br/>
+for that, I will describe about this role referencing #1. <br/>
+also from now, I will start the SW development activity/project for job and keep update this chapter. <br/>
+by doing that, I'll write about the role, tasks, skill, and knowledge for this position as job seeker below section. <br/>
+lastly, I will skip the SW activity/project for beginner in #1 such as SW activity utilizing various sensors, button, led, and etc. 
 
 #### Role / Tasks / Required Skill
 
@@ -67,5 +73,8 @@ I think it is better to seperate some topics written in here to each repo so tha
 - The criteria/meaning of Leader, Pride, Glory. <br/>
 - The reason/meaning of Technology, Dream, Pioneer. <br/>
 </p>
+
+## Reference
+[1] 100 FAQ in Embedded Systems by Faayiz M.
 
 Thanks. 😄
