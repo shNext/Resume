@@ -70,6 +70,17 @@ I need to think about this part seriously. <br/>
 and I have to know if this part is same with part. goal or not and find the specific reason. <br/>
 also, I need to know the difference with part. pioneer and specfiy the limitation of it.
 
+### Contribution to the technology 
+### Contribution to the product with the technology
+### Contribution to the business with the product
+### Contribution to the future as pioneer
+
+I think, the goal and contribution is different thing absolutely. <br/>
+the subjects of it should be different when use the words. <br/>
+in the goal, the subject should be focused on me and in the contribution on us. <br/>
+I am very sorry about that I didn't notice this importance thing as job seeker. 
+
+
 ## Related Repository in My Hub
 I think it is better to seperate some topics written in here to each repo so that details could be represented, so after write draft of this few of day will be to explain/write for that. <br/>
 
