@@ -79,8 +79,10 @@ also, I need to know the difference with part. pioneer and specfiy the limitatio
 I think, the goal and contribution is different thing absolutely. <br/>
 the subjects of it should be different when use the words. <br/>
 in the goal, the subject should be focused on me and in the contribution on us. <br/>
-I am very sorry about that I didn't notice this importance thing as job seeker. 
+I am very sorry about that I didn't notice this importance thing as job seeker. <br/>
 
+as a result, I want to finish this chapter with the end of writing about above 4 titles. <br/>
+I think now everything in my hub is looking at the way.
 
 ## Related Repository in My Hub
 I think it is better to seperate some topics written in here to each repo so that details could be represented, so after write draft of this few of day will be to explain/write for that. <br/>
