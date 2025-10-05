@@ -1,7 +1,8 @@
 # Resume
 This doesn't contain private information. <br/>
-draft deadline : 2025-10-03. <br/><br/>
-The chapter related with Role and Tasks for the position I want will be updated until get the job every one or two weekend.
+2th deadline : 2025-10-17 ~ 2025-10-20. <br/><br/>
+Reason : Still remains I have to learn from this valuable thing but do not focusing on this. <br/>
+The chapter related with Role and Tasks for the position I want will be updated until get the job every one or two weekend. <br/>
 
 ## Values about work
 
