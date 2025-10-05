@@ -66,6 +66,10 @@ Specify What I want to realize for the dream, the company, and the world.
 Perspective / Position / Business <br/>
 Carefully think and do not fully seperate them.
 
+I need to think about this part seriously. <br/>
+and I have to know if this part is same with part. goal or not and find the specific reason. <br/>
+also, I need to know the difference with part. pioneer and specfiy the limitation of it.
+
 ## Related Repository in My Hub
 I think it is better to seperate some topics written in here to each repo so that details could be represented, so after write draft of this few of day will be to explain/write for that. <br/>
 
