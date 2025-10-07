@@ -48,7 +48,6 @@ difficult to explain just one or two words but in my case the most closest expre
 <img src="https://img.shields.io/badge/Samsung Electronics-1428A0?style=for-the-badge&logo=Samsung&logoColor=white" style="border-radius:5px"/>
 <img src="https://img.shields.io/badge/Hyundai Autoever-002C5E?style=for-the-badge&logo=Hyundai&logoColor=white" style="border-radius:5px"/>
 <img src="https://img.shields.io/badge/SK Telecom-DD0700?style=for-the-badge&logoColor=white" style="border-radius:5px"/>
-<img src="https://img.shields.io/badge/LG Electronics-A50034?style=for-the-badge&logo=LG&logoColor=white" style="border-radius:5px"/>
 <img src="https://img.shields.io/badge/DEEPX-007CFF?style=for-the-badge&logoColor=white" style="border-radius:5px"/>
 <img src="https://img.shields.io/badge/Kia-05141F?style=for-the-badge&logo=Kia&logoColor=white" style="border-radius:5px"/>
 <img src="https://img.shields.io/badge/FuriosaAI-FF0000?style=for-the-badge&logoColor=white" style="border-radius:5px"/>
