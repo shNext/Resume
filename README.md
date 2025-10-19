@@ -92,7 +92,7 @@ from the perspective, the activities for business continuously interact with the
 under this condition, as job seeker for engineer, one of the things I can do for business is having confidence about the technology/product will be success and believing their value. <br/>
 by doing so, although business and environment is continuously changing, I can overcome the difficulty from it with the company together and achieve the goal.
 
-### Contribution to the future as pioneer
+### Contribution to the future as pioneer [This could be edited, make sure about the perspective]
 
 from population decline in the world, consumption decline from the people, and the economy is down and collapsing, I think, the cycle already has been formed and will be more stronger. <br/>
 maybe many people in the world will perceive/understand/feel about this situation just by having a one step to the economy. <br/>
