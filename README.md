@@ -98,6 +98,15 @@ now, I think, the really important question for the future is that the innovatio
 I dont want to talk about the relation between demand and supply and also not to focus on/evaluate the economic value of product based on the innovation. <br/>
 but, I think, the time has changed by the situation and under the situation many things. <br/>
 
+so, as job seeker for engineer, what can I do for future especially in perspective of pioneer considering the situation. <br/>
+I think, first thing to solve, that is population decline, but it is inevitable and cant be changed. because it is phenomenon naturally caused by the society/system so although it is possible we should accept it as itself. <br/>
+next thing is consumption decline, I think, already the answer has comes in. <br/>
+last is about economic growth. but, I'm not major in economics so my knowledge about its details is weak. <br/>
+
+lastly, I want to write about this but remind that I'm not economist. <br/>
+#### short-term technology/product-centric consumption growth with the social policy. <br/>
+#### long-term strategy for our children, for sustainable future for human. <br/>
+
 <br/>
 
 I think, the goal and contribution is different thing absolutely. <br/>
