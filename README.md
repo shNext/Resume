@@ -94,6 +94,10 @@ one of the things I like is histroy. <br/>
 it has possiblity to understand/predict the direction of cycle but under this situation it is really hard. <br/>
 in the macro view, if someone/technology bring us the innovation then I think the history should be changed in new structured-form. <br/>
 
+now, I think, the really important question for the future is that the innovation, whatever it is, has really attraction from reasonable people for economic growth. <br/>
+I dont want to talk about the relation between demand and supply and also not to focus on/evaluate the economic value of product based on the innovation. <br/>
+but, I think, the time has changed by the situation and under the situation many things. <br/>
+
 <br/>
 
 I think, the goal and contribution is different thing absolutely. <br/>
