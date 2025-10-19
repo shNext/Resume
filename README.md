@@ -71,9 +71,30 @@ and I have to know if this part is same with part. goal or not and find the spec
 also, I need to know the difference with part. pioneer and specfiy the limitation of it.
 
 ### Contribution to the technology 
+
+the field I want to dedicate to is embedded/system sw so I want to write about the contribution to it. <br/>
+
 ### Contribution to the product with the technology
+
+based on the embedded/system sw technology, I want to write about that what kind of products in which I want to make a contribution. <br/>
+
 ### Contribution to the business with the product
+
+honestly, I dont know well about what is business. <br/>
+but one of goals to do business is growth of the company, I think. <br/>
+so, if you allow me to write about this title, under the continuously changing wave of economy, then I want to do that. <br/>
+
 ### Contribution to the future as pioneer
+
+from population decline in the world, consumption decline from the people, and the economy is down and collapsing, I think, the cycle already has been formed and will be more stronger. <br/>
+maybe many people in the world will perceive/understand/feel about this situation just by having a one step to the economy. <br/>
+so I think, many leaders in the world argue/suggest to go inside the challenge and the way to bring it to us to overcome this. <br/>
+
+one of the things I like is histroy. <br/>
+it has possiblity to understand/predict the direction of cycle but under this situation it is really hard. <br/>
+in the macro view, if someone/technology bring us the innovation then I think the history should be changed in new structured-form. <br/>
+
+<br/>
 
 I think, the goal and contribution is different thing absolutely. <br/>
 the subjects of it should be different when use the words. <br/>
