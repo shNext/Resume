@@ -84,6 +84,14 @@ honestly, I dont know well about what is business. <br/>
 but one of goals to do business is growth of the company, I think. <br/>
 so, if you allow me to write about this title, under the continuously changing wave of economy, then I want to do that. <br/>
 
+business, I think, it is similar with economy at aspect of wave, considering technology, market and product. <br/>
+also, it is similar with economy at aspect of survival, considering consumer, producer. <br/>
+at various aspect, considering that there are the limited resources and they want maximum profit on the environments they are, it is similar with economy. <br/>
+from the perspective, the activities for business continuously interact with themselves like economy. <br/>
+
+under this condition, as job seeker for engineer, one of the things I can do for business is having confidence about the technology/product will be success and believing their value. <br/>
+by doing so, although business and environment is continuously changing, I can overcome the difficulty from it with the company together and achieve the goal.
+
 ### Contribution to the future as pioneer
 
 from population decline in the world, consumption decline from the people, and the economy is down and collapsing, I think, the cycle already has been formed and will be more stronger. <br/>
