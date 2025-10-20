@@ -1,6 +1,6 @@
 # Resume
 This doesn't contain private information. <br/>
-2th deadline : 2025-10-17 ~ 2025-10-20. <br/><br/>
+update will be on 2025-10-27. <br/><br/>
 Reason : Still remains I have to learn from this valuable thing but do not focusing on this. <br/>
 The chapter related with Role and Tasks for the position I want will be updated until get the job every one or two weekend. <br/>
 
@@ -73,10 +73,12 @@ also, I need to know the difference with part. pioneer and specfiy the limitatio
 ### Contribution to the technology 
 
 the field I want to dedicate to is embedded/system sw so I want to write about the contribution to it. <br/>
+should I select one of embedded and system sw, if then what I need to know. <br/>
 
 ### Contribution to the product with the technology
 
 based on the embedded/system sw technology, I want to write about that what kind of products in which I want to make a contribution. <br/>
+same also. <br/>
 
 ### Contribution to the business with the product
 
